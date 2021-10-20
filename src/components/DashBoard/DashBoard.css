@@ -1,0 +1,48 @@
+.dashboard-container{
+    padding: 10px;
+    margin-top: -6px;
+}
+
+.custom-border-card{
+    border-radius: 5px;
+    box-shadow: 10px;
+}
+
+.custom-margin-card-one{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.custom-margin-card-two{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.custom-margin-card-three{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.custom-margin-card-four{
+    margin-top: 30px;
+    margin-left: -25px;
+    background-color: #5d53e4;
+}
+
+.text-button-style{
+    font-size: 14px;
+    border-radius: 10px;
+    margin: -3px;
+}
+
+.bottom-button-color{
+    color: whitesmoke;
+}
+
+.documnet-space{
+    word-spacing: 20;
+}
+
+.branch-color{
+    color: whitesmoke;
+}
